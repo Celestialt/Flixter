@@ -57,3 +57,6 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 
 #simpleForm Gem
 gem 'simple_form'
+
+#Devise Gem
+gem 'devise'
