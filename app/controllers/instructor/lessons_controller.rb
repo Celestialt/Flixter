@@ -11,4 +11,10 @@ class Instructor::LessonsController < ApplicationController
 		redirect_to instructor_course_path(@section.course)
 		
 	end
+
+	private
+
+	def lesson_params
+		params.require(:lesson).permit(:title, :subtitle)
+	end
 end
