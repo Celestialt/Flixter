@@ -67,3 +67,4 @@ gem 'carrierwave', '~> 1.0'
 #Figaro Gem
 gem "figaro"
 gem "fog"
+gem "mini_magick"
