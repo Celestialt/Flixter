@@ -15,12 +15,15 @@
 	
 	margin: 10px;
 }
+
 .navbar {
 	font-family: "Helvetica Neue", Helvetica;
 	font-weight: 200;
 	box-shadow: 0px 1px 3px #2a2a2a;
 	background: image_url('restaurant.png');
-}
+	
+	}
+
 
 .navbar-inverse a.navbar-brand {
 	font-family: "Helveltica Neue", Helvetica;
@@ -35,7 +38,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 370px;
+	height: 850px;
 	box-shadow: 0px 3px 8px #2a2a2a;
 
 }
